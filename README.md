@@ -12,4 +12,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=souryeahdeep&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xpga7znxwkjhpqjxdpimdwhlsm)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
