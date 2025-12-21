@@ -1,6 +1,6 @@
 <div>
   <h1>👋 Hello viewer, I'm Souryadeep</h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Developing+full+stack;Reading+Books;Peeking+at+codebases;Watching+Classics" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Your+friendly+distant+Java+Developer;Currently+learning+Kafka;Peeking+at+codebases;Ask+me+about+Spring,+Microservices" alt="Typing SVG" /></a>
 </div>
 
 
